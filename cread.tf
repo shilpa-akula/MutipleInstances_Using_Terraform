@@ -1,0 +1,6 @@
+provider "aws"{
+access_key="ASIAUYFFU4SZUEIEBXGR"
+secret_key="/8eLPevrE3b3a0L0jDjecyREuFC2OVsNgiYqFBxy"
+token="FwoGZXIvYXdzELD//////////wEaDFHSHEoFmHnsTQJQ+yK8Aa5u8QFJe+hpldTNb5TudU6Fuo+RYYrXQD5uvJ7ZGKou0CTFDOEl/6cJJRCM5w7eSP2HB7z6n7BTYa+fpkROuTBL7B88ky4Uqx6DbZCT3Q0hnYzrDOPmztZqaZv7rZmVKCvToZO21/JH71etGerE6NCu4+VQJF+fFEwW05I/BKv12D6oBehiWBUzkr+VuMFjDtUzBr0tGyEz8erLOtkcicadZAzbCotH4plHI3fEhTH7kNhR5KB60gM46LhuKMLXt7EGMi1yKgy/d1exZCplIMmsjT4r+HEY5vZDBdFbZ9Ph0vQuxXpUn5M5rU9hZjqrIak="
+region="us-east-1"
+}
